@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+p1/1.py
+p1/__init__.py
+p1.egg-info/PKG-INFO
+p1.egg-info/SOURCES.txt
+p1.egg-info/dependency_links.txt
+p1.egg-info/entry_points.txt
+p1.egg-info/requires.txt
+p1.egg-info/top_level.txt
+p1.egg-info/zip-safe
+resource/p1
