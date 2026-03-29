@@ -1,2 +1,0 @@
-[console_scripts]
-test_node = p1.1:main
